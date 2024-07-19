@@ -7,7 +7,7 @@ namespace project
     static void main()
     {
       while(true) {
-        Console.WriteLine("I forgor")
+        Console.WriteLine("I forgor");
       }
     }
   }
