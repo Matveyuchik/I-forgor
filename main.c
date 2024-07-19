@@ -3,6 +3,7 @@
 int main()
 {
   while(true) {
-    cout << "I forgor"
+    cout << "I forgor";
   }
+  return 0;
 }
